@@ -51,24 +51,29 @@ o   .sam – sequence alignment map; .bam – binary alignment map; .cram – r
 
 o   Mapping quality (MQ) is a phred-score of the quality of the alignment
 
-o   Mapping tool 
+o   Mapping methods
 
 | Burrows-Wheeler      | Hashing                      |
 | -------------------- | -----------------------------|
 | BWA, Bowtie          | Stampy                       |
 
+o   Mapping tools
+
+| Platform             | Tool                         |
+| -------------------- | -----------------------------|
+| Illumina             |                              |
+| ONT                  |                              |
 
 o   Post-mapping data QC tools
 
-    - 
-
+    -
 
 STEP 4: Variant calling
 
 
 
 
- BWA MEM for mapping Illumina and Minimap2 for ONT reads. 
+
 
 
 
