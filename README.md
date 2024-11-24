@@ -6,13 +6,13 @@ o   Most high throughput sequencers generate output in FastQ format.
 
 o   Raw data reads – .fastq (uncompressed) or .fastq.gz (compressed)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Platform      |  Basecall File Format         | Basecaller |
+| ------------- | ------------------------------| ---------- |
+| Illumina      | Binary Base Call (BCL)        |
+| PacBio        | Basecall File (bash.h5/bax.h5)|
+| ONT           | FASTQ                         | Dorado     |
 
-
-Dorado is a basecaller for Oxford Nanopore Technology (ONT) reads
+o   Dorado is a basecaller for Oxford Nanopore Technology (ONT) reads
 
 o   Base quality (BQ) score = Phred score. Base quality is important for variant calling.
 
