@@ -61,21 +61,14 @@ o   Mapping tools
 
 | Platform             | Tool                         |
 | -------------------- | -----------------------------|
-| Illumina             |                              |
-| ONT                  |                              |
+| Illumina             | BWA MEM                      |
+| ONT                  | Minimap2                     |
 
 o   Post-mapping data QC tools
 
-    -
+    - Qualimap 
 
 STEP 4: Variant calling
-
-
-
-
-
-
-
 
 
 
