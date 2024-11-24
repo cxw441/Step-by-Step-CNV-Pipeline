@@ -7,11 +7,11 @@ o   Most high throughput sequencers generate output in FastQ format.
 
 o   Raw data reads – .fastq (uncompressed) or .fastq.gz (compressed)
 
-| Platform      |  Basecall File Format         | Basecaller |
-| ------------- | ------------------------------| ---------- |
-| Illumina      | Binary Base Call (BCL)        |
-| PacBio        | Basecall File (bash.h5/bax.h5)|
-| ONT           | FASTQ                         | Dorado     |
+| Platform      |  Basecall File Format           | Basecaller |
+| ------------- | --------------------------------| ---------- |
+| Illumina      | Binary Base Call (BCL)          |            |
+| PacBio        | Basecall File (bash.h5/bax.h5)  |            |
+| ONT           | FASTQ                           | Dorado     |
 
 o   Dorado is a basecaller for Oxford Nanopore Technology (ONT) reads
 
@@ -26,9 +26,9 @@ o   QC tool
     - http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
     - MultiQC is used to aggregate results from multiple FastQC runs into one single html report
 
-| Platform      | QC                           |
-| ------------- | -----------------------------|
-| ONT           | NanoQC                       |
+| Platform             | QC                           |
+| -------------------- | -----------------------------|
+| ONT                  | NanoQC                       |
 
 
 STEP 2: Trimming 
