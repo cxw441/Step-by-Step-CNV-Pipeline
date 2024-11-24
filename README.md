@@ -40,10 +40,10 @@ o   Trimming tool
     - http://www.usadellab.org/cms/?page=trimmomatic
 
 
-STEP 3: 
+STEP 3: Mapping or Alignment 
 
 
-
+STEP 4: Variant calling
 
 
 
