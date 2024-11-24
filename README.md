@@ -33,6 +33,8 @@ o   QC tool
 
 STEP 2: Trimming 
 
+o   Involves removal of poor quality reads and trim adapter sequences 
+
 o   Trimming tool
     - http://www.usadellab.org/cms/?page=trimmomatic
 
