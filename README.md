@@ -19,11 +19,11 @@ o   Base quality (BQ) score = Phred score. Base quality is important for varia
 o   Q20 and higher is generally a good score.
 
 o   QC tool 
-    - 
+
     - FASTQC is a quality control tool for high throughput sequence data.
     - It is written in Java.
-    - http://www.bioinformatics.babraham.ac.uk/projects/fastqc/ 
-
+    - http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+    
 Step 2: Trimming 
 
 o   
