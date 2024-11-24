@@ -39,6 +39,11 @@ o   Trimming tool
 
     - http://www.usadellab.org/cms/?page=trimmomatic
 
+| Platform             | Tool                         |
+| -------------------- | -----------------------------|
+| Illumina             | BBduk or Cutadapt            |
+| ONT                  | Porechop                     |
+
 
 STEP 3: Mapping or Alignment 
 
@@ -59,6 +64,35 @@ o   Post-mapping data QC tools
 
 
 STEP 4: Variant calling
+
+
+
+
+ BWA MEM for mapping Illumina and Minimap2 for ONT reads. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
