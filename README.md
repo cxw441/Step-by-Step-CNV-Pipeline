@@ -95,6 +95,3 @@ STEP 4: Variant calling
 
 
 
-
-
-
