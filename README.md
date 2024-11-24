@@ -42,6 +42,21 @@ o   Trimming tool
 
 STEP 3: Mapping or Alignment 
 
+o   .sam – sequence alignment map; .bam – binary alignment map; .cram – reference based compressed alignment map
+
+o   Mapping quality (MQ) is a phred-score of the quality of the alignment
+
+o   Mapping tool 
+
+| BuBurrows-Wheeler    | Hashing                      |
+| -------------------- | -----------------------------|
+| BWA, Bowtie          | Stampy                    |
+
+
+
+
+
+
 
 STEP 4: Variant calling
 
