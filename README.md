@@ -25,6 +25,11 @@ o   QC tool
     - http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
     - MultiQC is used to aggregate results from multiple FastQC runs into one single html report
 
+| Platform      | QC                       |
+| ------------- | -------------------------|
+| ONT           | NanoQC                   |
+
+
 Step 2: Trimming 
 
 o   
