@@ -48,13 +48,14 @@ o   Mapping quality (MQ) is a phred-score of the quality of the alignment
 
 o   Mapping tool 
 
-| BuBurrows-Wheeler    | Hashing                      |
+| Burrows-Wheeler      | Hashing                      |
 | -------------------- | -----------------------------|
-| BWA, Bowtie          | Stampy                    |
+| BWA, Bowtie          | Stampy                       |
 
 
-o 
+o   Post-mapping data QC tools
 
+    - 
 
 
 STEP 4: Variant calling
