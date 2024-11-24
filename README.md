@@ -53,8 +53,7 @@ o   Mapping tool
 | BWA, Bowtie          | Stampy                    |
 
 
-
-
+o 
 
 
 
