@@ -6,7 +6,6 @@ o   Base quality (BQ) score = Phred score. Base quality is important for varia
 o   Q20 and higher is generally a good score.
 o   QC tool - http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
-
 Step 2: Trimming 
 
-
+o   
