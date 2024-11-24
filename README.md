@@ -1,7 +1,7 @@
 # Step-by-Step-CNV-Pipeline
 
 
-Step 1: Base calling and Quality Control (QC) 
+STEP 1: Base calling and Quality Control (QC) 
 
 o   Most high throughput sequencers generate output in FastQ format.  
 
@@ -31,13 +31,13 @@ o   QC tool
 | ONT           | NanoQC                       |
 
 
-Step 2: Trimming 
+STEP 2: Trimming 
 
-o 
+o   Trimming tool
+    - http://www.usadellab.org/cms/?page=trimmomatic
 
 
-
-
+STEP 3: 
 
 
 
